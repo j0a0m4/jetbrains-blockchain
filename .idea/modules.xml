@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain.util.test.iml" />
+    </modules>
+  </component>
+</project>
