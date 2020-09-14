@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds between two time points/Blockchain.Problems-Seconds_between_two_time_points.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds between two time points/Blockchain.Problems-Seconds_between_two_time_points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds between two time points/Blockchain.Problems-Seconds_between_two_time_points.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds between two time points/Blockchain.Problems-Seconds_between_two_time_points.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds between two time points/Blockchain.Problems-Seconds_between_two_time_points.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds between two time points/Blockchain.Problems-Seconds_between_two_time_points.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Seconds since start of a day/Blockchain.Problems-Seconds_since_start_of_a_day.test.iml" />

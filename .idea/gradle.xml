@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Seconds between two time points" />
             <option value="$PROJECT_DIR$/Problems/Seconds since start of a day" />
             <option value="$PROJECT_DIR$/Problems/Some hours and minutes ago" />
             <option value="$PROJECT_DIR$/util" />
