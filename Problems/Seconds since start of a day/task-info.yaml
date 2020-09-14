@@ -9,6 +9,13 @@ files:
         }
     }
   learner_created: false
+- name: src/MainIn.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/2873
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2873">JetBrains
+    Academy</a></html>
+  time: Mon, 14 Sep 2020 00:00:40 UTC
 record: -1
